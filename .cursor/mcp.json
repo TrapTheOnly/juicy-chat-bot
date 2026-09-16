@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "juice-shop-catalog": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "./nlp"]
+    }
+  }
+}
